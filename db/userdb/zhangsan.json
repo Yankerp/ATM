@@ -1,0 +1,10 @@
+{
+  "username": "zhangsan",
+  "userpassword": "45cb41b32dcfb917ccd8614f1536d6da",
+  "quota": 22750,
+  "status": false,
+  "flowingwater": [
+    "用户zhangsan在2022-06-13 17:02:36 给e转账了250 元人民币",
+    "用户zhangsan在2022-06-13 17:14:12 获得了来自e转账的17000 元人民币"
+  ]
+}
